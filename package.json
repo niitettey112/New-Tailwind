@@ -1,0 +1,21 @@
+{
+  "name": "new-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
+    "prettier": "npx prettier --watch **/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niitettey112/New-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niitettey112/New-Tailwind/issues"
+  },
+  "homepage": "https://github.com/niitettey112/New-Tailwind#readme"
+}
